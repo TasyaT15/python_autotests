@@ -26,7 +26,7 @@
 2. Используется библиотека Requests
 3. Параметризированные тесты с использованием декоратора
 
-![image](https://raw.githubusercontent.com/German-D/Python-Pytest-Requests/main/static/pytest-api.png)
+![image](https://raw.githubusercontent.com/TasyaT15/python_autotests/refs/heads/main/pokemons.png)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
@@ -64,4 +64,4 @@ pytest tests/test_pokemon.py
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Еатьяна Татаркина ([@TatarkinaTasya](https://t.me/TatarkinaTasya))
