@@ -64,4 +64,4 @@ pytest tests/test_pokemon.py
 
 ## Автор
 
-Еатьяна Татаркина ([@TatarkinaTasya](https://t.me/TatarkinaTasya))
+Татьяна Татаркина ([@TatarkinaTasya](https://t.me/TatarkinaTasya))
